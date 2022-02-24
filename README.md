@@ -4,13 +4,15 @@ Tested OS version: 10.14.6 (macOS Mojave)
 
 **Currently working**
 
-__Full__ Graphics Acceleration
+**Full** Graphics Acceleration
 
 Audio **(jack, built-in speakers, bt)**
 
 Ethernet **(I used Realtek8100.kext)** 
 
 Bluetooth **(Built-in works fine I think)**
+
+Dual boot with Windows 10
 
 **Currently not working**
 
