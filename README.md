@@ -5,6 +5,7 @@ Tested OS version: 10.14.6 (macOS Mojave)
 **Currently working**
 
 Graphics Acceleration
+
 **Currently not working**
 
 WiFi: Built-in not working
