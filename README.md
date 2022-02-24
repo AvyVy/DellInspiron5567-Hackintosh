@@ -54,8 +54,6 @@ I followed that guide from Dortania OpenCore Guide: https://dortania.github.io/O
 
 Optional SSDT's I put in download, I used several of them
 
-In downlaod I put kexts are I using too
-
 I upload some screenshots, soon more :3
 
 For any more questions contact me on discord AngVy#9261
