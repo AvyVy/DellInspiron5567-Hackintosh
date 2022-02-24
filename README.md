@@ -4,6 +4,12 @@ Tested OS version: 10.14.6 (macOS Mojave)
 
 ## Laptop Specifications:
 
+Cpu: **Intel core i5-7200U**
+
+IGPU: **Intel HD620**
+
+OS version: **10.14.6**
+
 ## Currently working
 
 **Full** Graphics Acceleration
