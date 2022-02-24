@@ -4,7 +4,13 @@ Tested OS version: 10.14.6 (macOS Mojave)
 
 **Currently working**
 
-Graphics Acceleration
+__Full__ Graphics Acceleration
+
+Audio **(jack, built-in speakers, bt)**
+
+Ethernet **(I used Realtek8100.kext)** 
+
+Bluetooth **(Built-in works fine I think)**
 
 **Currently not working**
 
@@ -17,3 +23,5 @@ Hibernation: Sometimes works, but most of the time causes not booting until all 
 **Notes**
 
 My audio layout id is **21**
+
+I now going 
