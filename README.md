@@ -48,8 +48,6 @@ Hibernation: Sometimes works, but most of the time causes not booting until all 
 
 My audio layout id is **21**
 
-I now going to change opencore booting section to gui mode
-
 I followed that guide from Dortania OpenCore Guide: https://dortania.github.io/OpenCore-Install-Guide/
 
 Optional SSDT's I put in download, I used several of them
