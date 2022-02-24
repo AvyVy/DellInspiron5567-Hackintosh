@@ -1,28 +1,24 @@
-# DellInspiron5567-Hackintosh
-Dell Inspiron 5567 Intel Core i5 7200U Intel HD 620 based
-Tested OS version: 10.14.6 (macOS Mojave)
+Dell Inspiron 5567 Intel Core i5 7200U Intel HD 620 based Tested OS version: 10.14.6 (macOS Mojave)
 
-## Laptop Specifications:
+Laptop Specifications:
+CPU: Intel Core i5-7200U
 
-CPU: **Intel Core i5-7200U**
+iGPU: Intel HD620
 
-GPU: **Intel HD620**
+MacOS version: 10.14.6
 
-MacOS version: **10.14.6**
+Audio coded: ALC 3246 (256)
 
-Audio coded: **ALC 3246 (256)**
+Currently working
+Full Graphics Acceleration
 
-## Currently working
+Audio (Input and Output) (jack, built-in speakers, bt)
 
-**Full** Graphics Acceleration
+Ethernet (I used Realtek8100.kext)
 
-Audio *(Input and Output)* **(jack, built-in speakers, bt)**
+Bluetooth (Built-in works fine I think)
 
-Ethernet **(I used Realtek8100.kext)** 
-
-Bluetooth **(Built-in works fine I think)**
-
-Touchpad and gests
+Touchpad with gests
 
 Battery status
 
@@ -32,9 +28,7 @@ App Store
 
 External USB Keyboard and Wireless Mice
 
-
-
-## Currently not working
+Currently not working
 
 Propably iMessage and FaceTime but idk, because I haven't an iPhone (but maybe check soon)
 
@@ -44,14 +38,16 @@ Card Reader: Not work, idk is there any fix for this
 
 Hibernation: Sometimes works, but most of the time causes not booting until all things are unplugged from the usb ports (turning off after 2 seconds after power button was clicked)
 
-## Additional Info / Notes
+Additional Info / Notes
 
-My audio layout id is **21**
+My audio layout id is 21
 
 I followed that guide from Dortania OpenCore Guide: https://dortania.github.io/OpenCore-Install-Guide/
 
 Optional SSDT's I put in download, I used several of them
 
-I upload some screenshots, soon more :3
+I upload some screenshots, and photo, soon more :3
 
 For any more questions contact me on discord AngVy#9261
+
+I booting opencore with macos from usb (for easy dual boot) and macos it's on hdd (slowly i know) 
