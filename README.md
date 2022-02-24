@@ -4,11 +4,13 @@ Tested OS version: 10.14.6 (macOS Mojave)
 
 ## Laptop Specifications:
 
-Cpu: **Intel core i5-7200U**
+CPU: **Intel core i5-7200U**
 
-IGPU: **Intel HD620**
+GPU: **Intel HD620**
 
-OS version: **10.14.6**
+MacOS version: **10.14.6**
+
+Audio coded: **ALC 3246 (256)**
 
 ## Currently working
 
@@ -19,6 +21,10 @@ Audio **(jack, built-in speakers, bt)**
 Ethernet **(I used Realtek8100.kext)** 
 
 Bluetooth **(Built-in works fine I think)**
+
+Touchpad and gests
+
+Battery status
 
 Dual boot with Windows 10
 
