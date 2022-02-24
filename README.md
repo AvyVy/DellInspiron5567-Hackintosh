@@ -1,7 +1,8 @@
 # DellInspiron5567-Hackintosh
-Dell Inspiron 5567 Intel Core i5 7200U based
+Dell Inspiron 5567 Intel Core i5 7200U Intel HD 620 based
 Tested OS version: 10.14.6 (macOS Mojave)
 
+## Laptop Specifications:
 **Currently working**
 
 **Full** Graphics Acceleration
@@ -26,4 +27,4 @@ Hibernation: Sometimes works, but most of the time causes not booting until all 
 
 My audio layout id is **21**
 
-I now going 
+I now going to change opencore booting section to gui mode
