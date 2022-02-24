@@ -4,7 +4,7 @@ Tested OS version: 10.14.6 (macOS Mojave)
 
 ## Laptop Specifications:
 
-CPU: **Intel core i5-7200U**
+CPU: **Intel Core i5-7200U**
 
 GPU: **Intel HD620**
 
