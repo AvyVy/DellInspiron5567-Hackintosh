@@ -10,6 +10,7 @@ MacOS version: 10.14.6
 Audio coded: ALC 3246 (256)
 
 Currently working
+
 Full Graphics Acceleration
 
 Audio (Input and Output) (jack, built-in speakers, bt)
