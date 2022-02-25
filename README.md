@@ -26,6 +26,8 @@ Dual boot with Windows 10
 
 App Store
 
+Hibernation
+
 External USB Keyboard and Wireless Mice
 
 Currently not working
@@ -35,8 +37,6 @@ Propably iMessage and FaceTime but idk, because I haven't an iPhone (but maybe c
 WiFi: Built-in not working
 
 Card Reader: Not work, idk is there any fix for this
-
-Hibernation: Sometimes works, but most of the time causes not booting until all things are unplugged from the usb ports (turning off after 2 seconds after power button was clicked)
 
 Additional Info / Notes
 
